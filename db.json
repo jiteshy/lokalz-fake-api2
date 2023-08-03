@@ -19,10 +19,7 @@
         "latitude": -34.9368,
         "longitude": -147.3043
       },
-      "tags": [
-        "Thai",
-        "Smoothies"
-      ],
+      "tags": ["Thai", "Smoothies"],
       "distance": "3m"
     },
     {
@@ -44,10 +41,7 @@
         "latitude": 64.4328,
         "longitude": -158.6391
       },
-      "tags": [
-        "Healthy",
-        "Soups"
-      ],
+      "tags": ["Healthy", "Soups"],
       "distance": "7m"
     },
     {
@@ -69,10 +63,7 @@
         "latitude": -66.8507,
         "longitude": 124.9751
       },
-      "tags": [
-        "Fast Food",
-        "Smoothies"
-      ],
+      "tags": ["Fast Food", "Smoothies"],
       "distance": "2m"
     },
     {
@@ -94,10 +85,7 @@
         "latitude": 23.904,
         "longitude": -63.4001
       },
-      "tags": [
-        "Mexican",
-        "Tea"
-      ],
+      "tags": ["Mexican", "Tea"],
       "distance": "2m"
     },
     {
@@ -119,10 +107,7 @@
         "latitude": -61.9246,
         "longitude": 114.0387
       },
-      "tags": [
-        "Thai",
-        "Smoothies"
-      ],
+      "tags": ["Thai", "Smoothies"],
       "distance": "2m"
     },
     {
@@ -144,10 +129,7 @@
         "latitude": -85.68,
         "longitude": -104.3366
       },
-      "tags": [
-        "Thai",
-        "Coffee"
-      ],
+      "tags": ["Thai", "Coffee"],
       "distance": "11m"
     },
     {
@@ -169,10 +151,7 @@
         "latitude": 20.2207,
         "longitude": 10.6325
       },
-      "tags": [
-        "Chinese",
-        "Soups"
-      ],
+      "tags": ["Chinese", "Soups"],
       "distance": "9m"
     },
     {
@@ -194,10 +173,7 @@
         "latitude": -72.1828,
         "longitude": -142.2046
       },
-      "tags": [
-        "Thai",
-        "Soups"
-      ],
+      "tags": ["Thai", "Soups"],
       "distance": "14m"
     },
     {
@@ -219,10 +195,7 @@
         "latitude": 4.1481,
         "longitude": 56.1999
       },
-      "tags": [
-        "Thai",
-        "Soups"
-      ],
+      "tags": ["Thai", "Soups"],
       "distance": "8m"
     },
     {
@@ -244,10 +217,7 @@
         "latitude": 18.7382,
         "longitude": 124.6153
       },
-      "tags": [
-        "Italian",
-        "Juices"
-      ],
+      "tags": ["Italian", "Juices"],
       "distance": "2m"
     },
     {
@@ -269,10 +239,7 @@
         "latitude": 61.6571,
         "longitude": 138.3175
       },
-      "tags": [
-        "Chinese",
-        "Juices"
-      ],
+      "tags": ["Chinese", "Juices"],
       "distance": "2m"
     },
     {
@@ -294,10 +261,7 @@
         "latitude": 18.8093,
         "longitude": 135.256
       },
-      "tags": [
-        "Mexican",
-        "Coffee"
-      ],
+      "tags": ["Mexican", "Coffee"],
       "distance": "3m"
     },
     {
@@ -319,10 +283,7 @@
         "latitude": 74.4484,
         "longitude": -30.0412
       },
-      "tags": [
-        "Thai",
-        "Soups"
-      ],
+      "tags": ["Thai", "Soups"],
       "distance": "12m"
     }
   ]
