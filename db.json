@@ -1,21 +1,4 @@
-{
-  "lattitude": "30.1356505",
-  "longitude": "-81.4899176",
-  "radius": "5m",
-  "data": {
-    "spotlights": [
-      {
-        "id": "3142",
-        "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_850,h_504/rng/md/carousel/production/50fbe2f1e5d552806072f52604587c5c",
-        "action": ""
-      },
-      {
-        "id": "3143",
-        "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_850,h_504/rng/md/carousel/production/8e3c441579fe371299ea23001551643f",
-        "action": ""
-      }
-    ],
-    "shops": [
+[
       {
         "id": "316745",
         "name": "Fusion Food Truck",
@@ -88,7 +71,4 @@
         "rating": "4.1",
         "tags": ["South Indian", "Homemade", "Tiffins"]
       }
-    ],
-    "nextOffset": "MzE2NzIxOQ=="
-  }
-}
+    ]
