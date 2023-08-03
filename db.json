@@ -1,5 +1,5 @@
 [
-      {
+    {
         "id": "316745",
         "name": "Fusion Food Truck",
         "address": "219 N Hogan St, Jacksonville, FL, 32202",
@@ -9,9 +9,13 @@
         "phone": "904-874-5478",
         "distance": "2m",
         "rating": "4.1",
-        "tags": ["Indian", "Thai", "Mediterranean"]
-      },
-      {
+        "tags": [
+            "Indian",
+            "Thai",
+            "Mediterranean"
+        ]
+    },
+    {
         "id": "316744",
         "name": "Alma Fusion",
         "address": "219 N Hogan St, Jacksonville, FL, 32202",
@@ -21,9 +25,13 @@
         "phone": "904-874-5478",
         "distance": "2m",
         "rating": "4.3",
-        "tags": ["Mexican", "Tacos", "Burritos"]
-      },
-      {
+        "tags": [
+            "Mexican",
+            "Tacos",
+            "Burritos"
+        ]
+    },
+    {
         "id": "316743",
         "name": "Fit Kits",
         "address": "11 Bay St, Jacksonville, FL, 32202",
@@ -33,9 +41,12 @@
         "phone": "904-874-5478",
         "distance": "4m",
         "rating": "4.1",
-        "tags": ["Gourmet", "Healthy"]
-      },
-      {
+        "tags": [
+            "Gourmet",
+            "Healthy"
+        ]
+    },
+    {
         "id": "316742",
         "name": "Tikiz Ice Cream",
         "address": "Water St, Jacksonville, FL, 32202",
@@ -45,9 +56,12 @@
         "phone": "904-874-5478",
         "distance": "3m",
         "rating": "4.1",
-        "tags": ["Shaved Ice", "Ice Cream"]
-      },
-      {
+        "tags": [
+            "Shaved Ice",
+            "Ice Cream"
+        ]
+    },
+    {
         "id": "316741",
         "name": "Tea of Jax",
         "address": "219 N Hogan St, Jacksonville, FL, 32202",
@@ -57,9 +71,13 @@
         "phone": "904-874-5478",
         "distance": "5m",
         "rating": "4.1",
-        "tags": ["Indian", "Snacks", "Tea"]
-      },
-      {
+        "tags": [
+            "Indian",
+            "Snacks",
+            "Tea"
+        ]
+    },
+    {
         "id": "316740",
         "name": "Kavita's Kitchen",
         "address": "219 N Hogan St, Jacksonville, FL, 32202",
@@ -69,6 +87,10 @@
         "phone": "904-874-5478",
         "distance": "3m",
         "rating": "4.1",
-        "tags": ["South Indian", "Homemade", "Tiffins"]
-      }
-    ]
+        "tags": [
+            "South Indian",
+            "Homemade",
+            "Tiffins"
+        ]
+    }
+]
