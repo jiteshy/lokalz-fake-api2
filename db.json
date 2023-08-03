@@ -2,2003 +2,328 @@
   "shops": [
     {
       "id": "30000",
-      "name": "Silver Marten",
-      "category": "FOOD_TRUCK",
+      "name": "Crème D’Argent",
+      "description": "Et sit quam dolore dignissimos sunt cum placeat incidunt eveniet. Iste quia perferendis harum amet totam voluptatibus nulla quisquam ratione. Dolore magni unde voluptatibus fuga. Sit voluptatem ut consectetur quos quis.",
+      "type": "HOME_MADE_FOOD",
       "address": {
-        "street": "Jessie Meadow",
-        "zipcode": 32183,
+        "street": "Nicole Ford",
+        "zipcode": 32072,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "(576) 289-5065 x992",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5649730382069760",
+      "email": "Tyrell.Toy90@yahoo.com",
+      "phone": "898-349-9284",
+      "rating": 4.2,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=4332049573871616",
       "geo": {
-        "latitude": 58.066,
-        "longitude": -111.9561
+        "latitude": -34.9368,
+        "longitude": -147.3043
       },
-      "tags": ["Greek", "Tea"],
-      "distance": "7m"
+      "tags": [
+        "Thai",
+        "Smoothies"
+      ],
+      "distance": "3m"
     },
     {
       "id": "30001",
-      "name": "Dwarf Hotot",
-      "category": "HOME_MADE_FOOD",
+      "name": "American Chinchilla",
+      "description": "Quaerat quisquam neque recusandae. Molestiae tenetur porro. Reprehenderit eum accusamus accusantium enim ipsam debitis illo. Nam excepturi maxime.",
+      "type": "HOME_MADE_FOOD",
       "address": {
-        "street": "Lukas Glen",
-        "zipcode": 32029,
+        "street": "Ova Squares",
+        "zipcode": 32207,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "1-768-959-8560 x32735",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6272263372406784",
+      "email": "Adell29@hotmail.com",
+      "phone": "236-264-3570",
+      "rating": 3.5,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=1377396804550656",
       "geo": {
-        "latitude": -73.5901,
-        "longitude": -23.4126
+        "latitude": 64.4328,
+        "longitude": -158.6391
       },
-      "tags": ["Chinese", "Smoothies"],
-      "distance": "2m"
+      "tags": [
+        "Healthy",
+        "Soups"
+      ],
+      "distance": "7m"
     },
     {
       "id": "30002",
-      "name": "American Sable",
-      "category": "FOOD_TRUCK",
+      "name": "Palomino",
+      "description": "Cum at earum fugit dolor incidunt dolore necessitatibus qui magnam. Sed quis facere ipsam ducimus enim fuga.",
+      "type": "FOOD_TRUCK",
       "address": {
-        "street": "Reina Parks",
-        "zipcode": 32213,
+        "street": "Jonathon Passage",
+        "zipcode": 32046,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "1-513-738-9158 x02181",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7190212855726080",
+      "email": "Kianna_Conn52@gmail.com",
+      "phone": "(731)",
+      "rating": 3.1,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=5200344898338816",
       "geo": {
-        "latitude": -60.6874,
-        "longitude": -107.0215
+        "latitude": -66.8507,
+        "longitude": 124.9751
       },
-      "tags": ["Indian", "Coffee"],
-      "distance": "7m"
+      "tags": [
+        "Fast Food",
+        "Smoothies"
+      ],
+      "distance": "2m"
     },
     {
       "id": "30003",
-      "name": "Tan",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Cronin Estate",
-        "zipcode": 32050,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "644-307-5536 x39829",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1723854854553600",
-      "geo": {
-        "latitude": -69.2312,
-        "longitude": 23.7745
-      },
-      "tags": ["Italian", "Soups"],
-      "distance": "6m"
-    },
-    {
-      "id": "30004",
-      "name": "Tan",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Nellie Path",
-        "zipcode": 32093,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-956-288-0199 x442",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4378404545626112",
-      "geo": {
-        "latitude": -3.7452,
-        "longitude": 102.786
-      },
-      "tags": ["Indian", "Coffee"],
-      "distance": "9m"
-    },
-    {
-      "id": "30005",
-      "name": "Standard Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Keara Parks",
-        "zipcode": 32270,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "614.335.1252 x4688",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4529691161526272",
-      "geo": {
-        "latitude": 66.8938,
-        "longitude": -37.1344
-      },
-      "tags": ["Indian", "Tea"],
-      "distance": "3m"
-    },
-    {
-      "id": "30006",
-      "name": "French Angora",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Jordon Throughway",
-        "zipcode": 32279,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "507-415-9688 x8378",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=332361143156736",
-      "geo": {
-        "latitude": -66.4991,
-        "longitude": -120.8869
-      },
-      "tags": ["Mexican", "Tea"],
-      "distance": "5m"
-    },
-    {
-      "id": "30007",
-      "name": "Lilac",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Kiarra Manor",
-        "zipcode": 32067,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "447-850-3486 x24490",
-      "rating": 3.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=19499080220672",
-      "geo": {
-        "latitude": 76.7386,
-        "longitude": 59.1635
-      },
-      "tags": ["Italian", "Coffee"],
-      "distance": "11m"
-    },
-    {
-      "id": "30008",
-      "name": "English Spot",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Axel Ridges",
-        "zipcode": 32073,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-864-581-4289 x68578",
-      "rating": 3.5,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4785880629772288",
-      "geo": {
-        "latitude": -16.8942,
-        "longitude": 54.4232
-      },
-      "tags": ["Chinese", "Coffee"],
-      "distance": "13m"
-    },
-    {
-      "id": "30009",
-      "name": "Mini Rex",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Terry Lights",
-        "zipcode": 32090,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "348-863-8428 x47562",
-      "rating": 3.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5867967518605312",
-      "geo": {
-        "latitude": 2.1466,
-        "longitude": -165.2746
-      },
-      "tags": ["Italian", "Tea"],
-      "distance": "3m"
-    },
-    {
-      "id": "30010",
-      "name": "American",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Bartoletti Orchard",
-        "zipcode": 32110,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-337-553-3740 x8395",
-      "rating": 3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=628536882757632",
-      "geo": {
-        "latitude": 60.4493,
-        "longitude": -121.106
-      },
-      "tags": ["Chinese", "Tea"],
-      "distance": "12m"
-    },
-    {
-      "id": "30011",
-      "name": "Mini Satin",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "McCullough Gateway",
-        "zipcode": 32090,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "673-402-7030 x381",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2260062428987392",
-      "geo": {
-        "latitude": -19.5061,
-        "longitude": -127.126
-      },
-      "tags": ["Mexican", "Soups"],
-      "distance": "12m"
-    },
-    {
-      "id": "30012",
-      "name": "English Angora",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Powlowski Crossing",
-        "zipcode": 32117,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "251-997-5006 x210",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5800753876697088",
-      "geo": {
-        "latitude": -65.8887,
-        "longitude": 11.3096
-      },
-      "tags": ["Chinese", "Smoothies"],
-      "distance": "9m"
-    },
-    {
-      "id": "30013",
-      "name": "Mini Rex",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Luella Lights",
-        "zipcode": 32063,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "382-617-3528",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=381630606737408",
-      "geo": {
-        "latitude": -55.7468,
-        "longitude": -112.9594
-      },
-      "tags": ["Fast Food", "Tea"],
-      "distance": "7m"
-    },
-    {
-      "id": "30014",
-      "name": "American Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Alberta Burg",
-        "zipcode": 32218,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "388-461-3986 x68901",
-      "rating": 3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6880334163476480",
-      "geo": {
-        "latitude": -69.9989,
-        "longitude": -16.3089
-      },
-      "tags": ["Fast Food", "Tea"],
-      "distance": "3m"
-    },
-    {
-      "id": "30015",
-      "name": "Jersey Wooly",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Lenore Bypass",
-        "zipcode": 32258,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(669) 677-2067 x2410",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5763423312805888",
-      "geo": {
-        "latitude": 76.542,
-        "longitude": 121.3436
-      },
-      "tags": ["Healthy", "Juices"],
-      "distance": "8m"
-    },
-    {
-      "id": "30016",
-      "name": "Champagne D’Argent",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Romaguera Radial",
-        "zipcode": 32149,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-968-914-4184 x3193",
-      "rating": 4.5,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6851455665307648",
-      "geo": {
-        "latitude": 45.3248,
-        "longitude": 174.1872
-      },
-      "tags": ["Italian", "Juices"],
-      "distance": "4m"
-    },
-    {
-      "id": "30017",
-      "name": "New Zealand",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Grimes Parkway",
-        "zipcode": 32040,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "279.756.1198 x47923",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8947902512627712",
-      "geo": {
-        "latitude": 37.5826,
-        "longitude": -134.2173
-      },
-      "tags": ["Thai", "Tea"],
-      "distance": "12m"
-    },
-    {
-      "id": "30018",
-      "name": "Rex",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Lynch Wall",
-        "zipcode": 32044,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "450.432.1968 x355",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6982515254362112",
-      "geo": {
-        "latitude": 77.548,
-        "longitude": -51.8755
-      },
-      "tags": ["Chinese", "Tea"],
-      "distance": "10m"
-    },
-    {
-      "id": "30019",
-      "name": "Dutch",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Finn Keys",
-        "zipcode": 32015,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-340-830-2141 x4308",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4184543019925504",
-      "geo": {
-        "latitude": 41.7067,
-        "longitude": 115.0941
-      },
-      "tags": ["Mexican", "Smoothies"],
-      "distance": "12m"
-    },
-    {
-      "id": "30020",
-      "name": "Crème D’Argent",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Wade Oval",
-        "zipcode": 32288,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(649) 675-9873",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2367195652816896",
-      "geo": {
-        "latitude": -68.0214,
-        "longitude": 33.5962
-      },
-      "tags": ["Fast Food", "Coffee"],
-      "distance": "4m"
-    },
-    {
-      "id": "30021",
-      "name": "Thrianta",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Hettie Rest",
-        "zipcode": 32044,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(606) 699-8224 x95121",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1171414212149248",
-      "geo": {
-        "latitude": -19.2207,
-        "longitude": -152.5205
-      },
-      "tags": ["Greek", "Juices"],
-      "distance": "3m"
-    },
-    {
-      "id": "30022",
-      "name": "English Spot",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Von Knoll",
-        "zipcode": 32134,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "297-224-2769 x5631",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6868114383831040",
-      "geo": {
-        "latitude": 3.7196,
-        "longitude": -42.6012
-      },
-      "tags": ["Chinese", "Juices"],
-      "distance": "9m"
-    },
-    {
-      "id": "30023",
-      "name": "Cinnamon",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Howe Rapids",
-        "zipcode": 32096,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-985-210-5083",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4415050322280448",
-      "geo": {
-        "latitude": -47.2389,
-        "longitude": 90.3561
-      },
-      "tags": ["Greek", "Soups"],
-      "distance": "4m"
-    },
-    {
-      "id": "30024",
-      "name": "Standard Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Hartmann Land",
-        "zipcode": 32104,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "442-677-1592 x774",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2592835729620992",
-      "geo": {
-        "latitude": 41.1183,
-        "longitude": -116.7493
-      },
-      "tags": ["Indian", "Coffee"],
-      "distance": "6m"
-    },
-    {
-      "id": "30025",
-      "name": "American Sable",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Libbie Oval",
-        "zipcode": 32030,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(553) 797-0606",
-      "rating": 4.5,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6805774382661632",
-      "geo": {
-        "latitude": -12.8476,
-        "longitude": -80.4178
-      },
-      "tags": ["Mexican", "Smoothies"],
-      "distance": "11m"
-    },
-    {
-      "id": "30026",
-      "name": "Dutch",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Mueller Flat",
-        "zipcode": 32197,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-250-517-0320",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7041915771944960",
-      "geo": {
-        "latitude": -56.2387,
-        "longitude": 86.7803
-      },
-      "tags": ["Indian", "Coffee"],
-      "distance": "9m"
-    },
-    {
-      "id": "30027",
-      "name": "American Fuzzy Lop",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Green Rapid",
-        "zipcode": 32239,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(227) 908-9846 x411",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=590342982205440",
-      "geo": {
-        "latitude": -46.7347,
-        "longitude": -122.6904
-      },
-      "tags": ["Greek", "Smoothies"],
-      "distance": "8m"
-    },
-    {
-      "id": "30028",
-      "name": "French Angora",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Jed Walk",
-        "zipcode": 32291,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "233-414-3173 x4873",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3010708895694848",
-      "geo": {
-        "latitude": 52.1062,
-        "longitude": -50.0108
-      },
-      "tags": ["Healthy", "Tea"],
-      "distance": "10m"
-    },
-    {
-      "id": "30029",
-      "name": "Harlequin",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Nikolaus Corners",
-        "zipcode": 32110,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-369-997-3995 x2042",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5714397991272448",
-      "geo": {
-        "latitude": 63.531,
-        "longitude": -76.5973
-      },
-      "tags": ["Indian", "Juices"],
-      "distance": "6m"
-    },
-    {
-      "id": "30030",
-      "name": "Palomino",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Hilda Fields",
-        "zipcode": 32255,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "798.911.8290 x81935",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2938470525829120",
-      "geo": {
-        "latitude": 10.5216,
-        "longitude": 83.0271
-      },
-      "tags": ["Thai", "Juices"],
-      "distance": "8m"
-    },
-    {
-      "id": "30031",
-      "name": "Holland Lop",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Vidal Junction",
-        "zipcode": 32028,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "403.502.6248 x68489",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6240865213218816",
-      "geo": {
-        "latitude": 20.0314,
-        "longitude": 67.6211
-      },
-      "tags": ["Healthy", "Tea"],
-      "distance": "14m"
-    },
-    {
-      "id": "30032",
-      "name": "Jersey Wooly",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Hackett Tunnel",
-        "zipcode": 32295,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(527) 833-0605",
-      "rating": 3.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4253726856445952",
-      "geo": {
-        "latitude": -15.9923,
-        "longitude": -67.9281
-      },
-      "tags": ["Thai", "Tea"],
-      "distance": "3m"
-    },
-    {
-      "id": "30033",
-      "name": "Mini Lop",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Wiegand Gateway",
-        "zipcode": 32260,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(326) 282-9956 x7554",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7218520498634752",
-      "geo": {
-        "latitude": 77.5572,
-        "longitude": 89.9287
-      },
-      "tags": ["Fast Food", "Tea"],
-      "distance": "13m"
-    },
-    {
-      "id": "30034",
-      "name": "French Lop",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Simonis Grove",
-        "zipcode": 32251,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-985-219-7997 x710",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2887388569272320",
-      "geo": {
-        "latitude": 0.0115,
-        "longitude": -90.8011
-      },
-      "tags": ["Fast Food", "Soups"],
-      "distance": "6m"
-    },
-    {
-      "id": "30035",
-      "name": "Tan",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Hodkiewicz Streets",
-        "zipcode": 32140,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(757) 482-9542 x3702",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4501145590431744",
-      "geo": {
-        "latitude": 46.4364,
-        "longitude": 156.8873
-      },
-      "tags": ["Chinese", "Juices"],
-      "distance": "3m"
-    },
-    {
-      "id": "30036",
-      "name": "American Sable",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Schinner Loaf",
-        "zipcode": 32065,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(225) 786-4708",
-      "rating": 4.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=422569641508864",
-      "geo": {
-        "latitude": -65.4436,
-        "longitude": 172.563
-      },
-      "tags": ["Thai", "Smoothies"],
-      "distance": "14m"
-    },
-    {
-      "id": "30037",
-      "name": "Palomino",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Rowe Underpass",
-        "zipcode": 32130,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-524-951-0737 x1245",
-      "rating": 4.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3143454972444672",
-      "geo": {
-        "latitude": 27.2339,
-        "longitude": 65.3059
-      },
-      "tags": ["Mexican", "Coffee"],
-      "distance": "6m"
-    },
-    {
-      "id": "30038",
-      "name": "English Angora",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Noemie Pines",
-        "zipcode": 32040,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-675-576-0962 x5829",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6879685092835328",
-      "geo": {
-        "latitude": 41.1441,
-        "longitude": -106.2805
-      },
-      "tags": ["Italian", "Soups"],
-      "distance": "9m"
-    },
-    {
-      "id": "30039",
-      "name": "Blanc de Hotot",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Kiana Rapids",
-        "zipcode": 32215,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "354.613.2679 x46780",
-      "rating": 3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3625983338872832",
-      "geo": {
-        "latitude": 54.3688,
-        "longitude": 155.6456
-      },
-      "tags": ["Healthy", "Soups"],
-      "distance": "2m"
-    },
-    {
-      "id": "30040",
-      "name": "Himalayan",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Buford Path",
-        "zipcode": 32198,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "517-221-7035 x7649",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3127622854770688",
-      "geo": {
-        "latitude": 73.9987,
-        "longitude": -82.5142
-      },
-      "tags": ["Italian", "Smoothies"],
-      "distance": "14m"
-    },
-    {
-      "id": "30041",
-      "name": "Giant Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Willms Lock",
-        "zipcode": 32174,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(943) 346-7784 x4437",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1315229862461440",
-      "geo": {
-        "latitude": 54.0708,
-        "longitude": 146.0384
-      },
-      "tags": ["Greek", "Tea"],
-      "distance": "6m"
-    },
-    {
-      "id": "30042",
-      "name": "French Angora",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Haley Pine",
-        "zipcode": 32259,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(251) 998-6252",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3167539406307328",
-      "geo": {
-        "latitude": 67.4951,
-        "longitude": -136.8557
-      },
-      "tags": ["Thai", "Coffee"],
-      "distance": "8m"
-    },
-    {
-      "id": "30043",
-      "name": "Belgian Hare",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Ryan Lakes",
-        "zipcode": 32203,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "624.314.0816 x38794",
-      "rating": 4.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5394319066267648",
-      "geo": {
-        "latitude": -58.5931,
-        "longitude": -159.1054
-      },
-      "tags": ["Thai", "Coffee"],
-      "distance": "7m"
-    },
-    {
-      "id": "30044",
-      "name": "New Zealand",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Simonis Crossroad",
-        "zipcode": 32156,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(734) 411-7145 x907",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6442934727606272",
-      "geo": {
-        "latitude": 8.969,
-        "longitude": 89.4001
-      },
-      "tags": ["Fast Food", "Coffee"],
-      "distance": "3m"
-    },
-    {
-      "id": "30045",
-      "name": "Cinnamon",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Donnell Key",
-        "zipcode": 32284,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "654-532-5319 x520",
-      "rating": 4.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1519319678713856",
-      "geo": {
-        "latitude": -23.51,
-        "longitude": 20.5724
-      },
-      "tags": ["Mexican", "Juices"],
-      "distance": "10m"
-    },
-    {
-      "id": "30046",
-      "name": "Belgian Hare",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Rosalinda Loop",
-        "zipcode": 32050,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-228-668-3452",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3968056332124160",
-      "geo": {
-        "latitude": -85.7927,
-        "longitude": 19.1038
-      },
-      "tags": ["Chinese", "Juices"],
-      "distance": "4m"
-    },
-    {
-      "id": "30047",
-      "name": "Standard Chinchilla",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Yost Mountain",
-        "zipcode": 32113,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "477-986-2384",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4171314489196544",
-      "geo": {
-        "latitude": -7.7109,
-        "longitude": 115.5752
-      },
-      "tags": ["Fast Food", "Tea"],
-      "distance": "9m"
-    },
-    {
-      "id": "30048",
-      "name": "Lilac",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Lorenzo Overpass",
-        "zipcode": 32160,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "262-291-7391",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6946043008647168",
-      "geo": {
-        "latitude": -2.6038,
-        "longitude": 1.6211
-      },
-      "tags": ["Indian", "Tea"],
-      "distance": "6m"
-    },
-    {
-      "id": "30049",
-      "name": "Polish",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Jacinto Circles",
-        "zipcode": 32161,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(690) 670-7895",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4929559912775680",
-      "geo": {
-        "latitude": -9.2687,
-        "longitude": -163.3374
-      },
-      "tags": ["Chinese", "Juices"],
-      "distance": "14m"
-    },
-    {
-      "id": "30050",
-      "name": "Harlequin",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Cummings Plaza",
-        "zipcode": 32276,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "435.951.2780",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4685474417344512",
-      "geo": {
-        "latitude": -82.8655,
-        "longitude": -171.5034
-      },
-      "tags": ["Thai", "Tea"],
-      "distance": "10m"
-    },
-    {
-      "id": "30051",
-      "name": "Lilac",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Antonietta Springs",
-        "zipcode": 32216,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(936) 632-6124 x73490",
-      "rating": 4.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4994050904031232",
-      "geo": {
-        "latitude": -44.6513,
-        "longitude": 6.2416
-      },
-      "tags": ["Chinese", "Smoothies"],
-      "distance": "7m"
-    },
-    {
-      "id": "30052",
-      "name": "Giant Chinchilla",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Tod Loaf",
-        "zipcode": 32083,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-871-373-2383",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5950584605638656",
-      "geo": {
-        "latitude": -60.1683,
-        "longitude": 79.2119
-      },
-      "tags": ["Healthy", "Soups"],
-      "distance": "3m"
-    },
-    {
-      "id": "30053",
-      "name": "American Chinchilla",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Johns Ferry",
-        "zipcode": 32075,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "814.876.7667",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5170048243073024",
-      "geo": {
-        "latitude": 33.005,
-        "longitude": -159.3466
-      },
-      "tags": ["Mexican", "Tea"],
-      "distance": "12m"
-    },
-    {
-      "id": "30054",
-      "name": "Mini Lop",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Abdullah Station",
-        "zipcode": 32174,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-319-466-8936 x8974",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7970613316550656",
-      "geo": {
-        "latitude": 38.3749,
-        "longitude": 12.7653
-      },
-      "tags": ["Healthy", "Soups"],
-      "distance": "3m"
-    },
-    {
-      "id": "30055",
-      "name": "French Lop",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Cassin Ridges",
-        "zipcode": 32247,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-328-229-6243 x231",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1678484233519104",
-      "geo": {
-        "latitude": -45.4389,
-        "longitude": -56.1832
-      },
-      "tags": ["Healthy", "Juices"],
-      "distance": "4m"
-    },
-    {
-      "id": "30056",
-      "name": "Champagne D’Argent",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Herman Tunnel",
-        "zipcode": 32060,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(939) 690-0390 x0219",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8168663381180416",
-      "geo": {
-        "latitude": 77.7586,
-        "longitude": -157.6942
-      },
-      "tags": ["Indian", "Tea"],
-      "distance": "10m"
-    },
-    {
-      "id": "30057",
-      "name": "Beveren",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Denesik Circles",
-        "zipcode": 32176,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-842-457-9737 x507",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7656697696878592",
-      "geo": {
-        "latitude": 13.7431,
-        "longitude": 146.8974
-      },
-      "tags": ["Indian", "Smoothies"],
-      "distance": "8m"
-    },
-    {
-      "id": "30058",
-      "name": "English Angora",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Schumm Estates",
-        "zipcode": 32135,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-821-843-5856 x10001",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1077335396712448",
-      "geo": {
-        "latitude": -46.709,
-        "longitude": 93.1601
-      },
-      "tags": ["Thai", "Juices"],
-      "distance": "7m"
-    },
-    {
-      "id": "30059",
       "name": "Satin Angora",
-      "category": "FOOD_TRUCK",
+      "description": "Voluptatum dolorem sapiente sit rem. Iste vel voluptatibus optio a culpa. Quo tempore aut consectetur nobis dicta.",
+      "type": "HOME_MADE_FOOD",
       "address": {
-        "street": "Stoltenberg Port",
-        "zipcode": 32090,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "454.770.6467 x69954",
-      "rating": 4.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=275175270514688",
-      "geo": {
-        "latitude": 68.7818,
-        "longitude": -134.5227
-      },
-      "tags": ["Healthy", "Smoothies"],
-      "distance": "12m"
-    },
-    {
-      "id": "30060",
-      "name": "English Lop",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Virginia Lake",
-        "zipcode": 32288,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "824.540.6181 x3621",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5410873411633152",
-      "geo": {
-        "latitude": 67.7133,
-        "longitude": -58.5939
-      },
-      "tags": ["Indian", "Tea"],
-      "distance": "2m"
-    },
-    {
-      "id": "30061",
-      "name": "American Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Marcelino Coves",
-        "zipcode": 32033,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "554.802.4630 x872",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1688940530630656",
-      "geo": {
-        "latitude": 41.9146,
-        "longitude": -163.3407
-      },
-      "tags": ["Mexican", "Smoothies"],
-      "distance": "14m"
-    },
-    {
-      "id": "30062",
-      "name": "American Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Bradford Ridges",
-        "zipcode": 32279,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "279.225.5840 x629",
-      "rating": 3.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=317200743268352",
-      "geo": {
-        "latitude": 2.2066,
-        "longitude": -167.477
-      },
-      "tags": ["Greek", "Coffee"],
-      "distance": "9m"
-    },
-    {
-      "id": "30063",
-      "name": "Belgian Hare",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Felipa Parkway",
-        "zipcode": 32245,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-208-260-1720",
-      "rating": 4.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=761477910757376",
-      "geo": {
-        "latitude": 44.4666,
-        "longitude": 17.1614
-      },
-      "tags": ["Italian", "Soups"],
-      "distance": "7m"
-    },
-    {
-      "id": "30064",
-      "name": "Mini Rex",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Fritz Junctions",
-        "zipcode": 32164,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-253-773-1123 x18952",
-      "rating": 4.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8767721015607296",
-      "geo": {
-        "latitude": -24.8932,
-        "longitude": 146.8039
-      },
-      "tags": ["Indian", "Smoothies"],
-      "distance": "9m"
-    },
-    {
-      "id": "30065",
-      "name": "American Sable",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Danial Common",
-        "zipcode": 32099,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-888-339-4357 x984",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1302158116913152",
-      "geo": {
-        "latitude": 55.2698,
-        "longitude": 78.046
-      },
-      "tags": ["Mexican", "Smoothies"],
-      "distance": "7m"
-    },
-    {
-      "id": "30066",
-      "name": "Mini Rex",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Bashirian Center",
-        "zipcode": 32060,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "657.846.1428",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6801190381682688",
-      "geo": {
-        "latitude": 19.5667,
-        "longitude": 52.8692
-      },
-      "tags": ["Italian", "Smoothies"],
-      "distance": "11m"
-    },
-    {
-      "id": "30067",
-      "name": "Beveren",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Emelia Flats",
-        "zipcode": 32215,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "706.405.7320",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1089832759590912",
-      "geo": {
-        "latitude": 2.9669,
-        "longitude": 19.7159
-      },
-      "tags": ["Indian", "Soups"],
-      "distance": "2m"
-    },
-    {
-      "id": "30068",
-      "name": "Mini Rex",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Kelli Ville",
-        "zipcode": 32124,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "531.405.8902 x050",
-      "rating": 4.5,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2374122713645056",
-      "geo": {
-        "latitude": -85.9664,
-        "longitude": 14.7883
-      },
-      "tags": ["Italian", "Coffee"],
-      "distance": "11m"
-    },
-    {
-      "id": "30069",
-      "name": "Cinnamon",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Schinner Branch",
-        "zipcode": 32137,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "800.584.0297",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4585974734520320",
-      "geo": {
-        "latitude": 1.1396,
-        "longitude": -131.546
-      },
-      "tags": ["Italian", "Soups"],
-      "distance": "6m"
-    },
-    {
-      "id": "30070",
-      "name": "Rhinelander",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Botsford Throughway",
-        "zipcode": 32191,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(974) 614-2473 x1465",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3063213050560512",
-      "geo": {
-        "latitude": -21.1951,
-        "longitude": -116.5613
-      },
-      "tags": ["Mexican", "Soups"],
-      "distance": "6m"
-    },
-    {
-      "id": "30071",
-      "name": "Californian",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Chandler Lock",
-        "zipcode": 32130,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "501.657.0417 x4565",
-      "rating": 4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8542492897050624",
-      "geo": {
-        "latitude": -28.2129,
-        "longitude": -50.3686
-      },
-      "tags": ["Healthy", "Tea"],
-      "distance": "6m"
-    },
-    {
-      "id": "30072",
-      "name": "Flemish Giant",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Hettie Lights",
-        "zipcode": 32272,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(878) 701-0527 x3875",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=834906873659392",
-      "geo": {
-        "latitude": 57.3555,
-        "longitude": -171.0663
-      },
-      "tags": ["Greek", "Coffee"],
-      "distance": "5m"
-    },
-    {
-      "id": "30073",
-      "name": "Blanc de Hotot",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Aida Hills",
+        "street": "Turcotte Trail",
         "zipcode": 32010,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "(328) 488-3094",
+      "email": "Carolyn_Klein@hotmail.com",
+      "phone": "382-613-8403",
       "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5862365390176256",
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=7069326538440704",
       "geo": {
-        "latitude": 88.151,
-        "longitude": 33.5451
+        "latitude": 23.904,
+        "longitude": -63.4001
       },
-      "tags": ["Thai", "Juices"],
-      "distance": "14m"
+      "tags": [
+        "Mexican",
+        "Tea"
+      ],
+      "distance": "2m"
     },
     {
-      "id": "30074",
-      "name": "Satin",
-      "category": "FOOD_TRUCK",
+      "id": "30004",
+      "name": "American Sable",
+      "description": "Modi molestiae quaerat tempora rerum minus. Dolore atque veniam et aliquam quis ratione perferendis. Nihil modi libero possimus corrupti.",
+      "type": "FOOD_TRUCK",
       "address": {
-        "street": "Gutmann Brooks",
-        "zipcode": 32148,
+        "street": "Miller Streets",
+        "zipcode": 32089,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "271.800.1730 x1600",
-      "rating": 3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7098164360249344",
+      "email": "Issac_Auer@gmail.com",
+      "phone": "(276)",
+      "rating": 3.2,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=4511099535753216",
       "geo": {
-        "latitude": -47.6893,
-        "longitude": -30.8481
+        "latitude": -61.9246,
+        "longitude": 114.0387
       },
-      "tags": ["Greek", "Coffee"],
-      "distance": "13m"
+      "tags": [
+        "Thai",
+        "Smoothies"
+      ],
+      "distance": "2m"
     },
     {
-      "id": "30075",
-      "name": "Jersey Wooly",
-      "category": "HOME_MADE_FOOD",
+      "id": "30005",
+      "name": "Harlequin",
+      "description": "Quos illum ipsam odio quis minus esse nihil. Asperiores impedit in occaecati consequatur alias quas quaerat.",
+      "type": "HOME_MADE_FOOD",
       "address": {
-        "street": "Halvorson Avenue",
+        "street": "Vernon Passage",
         "zipcode": 32243,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "1-733-957-2202 x67399",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=803424809517056",
+      "email": "Maverick.Mitchell33@yahoo.com",
+      "phone": "275.689.8033",
+      "rating": 4.4,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=8739183208169472",
       "geo": {
-        "latitude": -76.177,
-        "longitude": 61.0633
+        "latitude": -85.68,
+        "longitude": -104.3366
       },
-      "tags": ["Chinese", "Smoothies"],
-      "distance": "4m"
-    },
-    {
-      "id": "30076",
-      "name": "American Chinchilla",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Arthur Loop",
-        "zipcode": 32056,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "680.457.2439 x29132",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=352069735153664",
-      "geo": {
-        "latitude": 60.1003,
-        "longitude": 0.7503
-      },
-      "tags": ["Healthy", "Juices"],
-      "distance": "8m"
-    },
-    {
-      "id": "30077",
-      "name": "American Chinchilla",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Valentine Shore",
-        "zipcode": 32209,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(275) 361-4196",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=739268607606784",
-      "geo": {
-        "latitude": 83.7548,
-        "longitude": -9.9932
-      },
-      "tags": ["Mexican", "Coffee"],
-      "distance": "14m"
-    },
-    {
-      "id": "30078",
-      "name": "American Fuzzy Lop",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Lisa Vista",
-        "zipcode": 32167,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "586.889.5115",
-      "rating": 3.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5403630691680256",
-      "geo": {
-        "latitude": -68.0334,
-        "longitude": -151.8377
-      },
-      "tags": ["Greek", "Soups"],
-      "distance": "3m"
-    },
-    {
-      "id": "30079",
-      "name": "Argente Brun",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Douglas Landing",
-        "zipcode": 32019,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "519.236.8251 x0433",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7086367871860736",
-      "geo": {
-        "latitude": 49.405,
-        "longitude": -97.8263
-      },
-      "tags": ["Indian", "Coffee"],
-      "distance": "10m"
-    },
-    {
-      "id": "30080",
-      "name": "French Angora",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Curt Heights",
-        "zipcode": 32159,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-584-349-5405 x1643",
-      "rating": 3.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=481900254724096",
-      "geo": {
-        "latitude": -25.6546,
-        "longitude": -166.671
-      },
-      "tags": ["Italian", "Juices"],
+      "tags": [
+        "Thai",
+        "Coffee"
+      ],
       "distance": "11m"
     },
     {
-      "id": "30081",
-      "name": "Satin Angora",
-      "category": "HOME_MADE_FOOD",
+      "id": "30006",
+      "name": "Harlequin",
+      "description": "Quaerat a quaerat harum possimus perferendis eaque. Mollitia reiciendis dolorem blanditiis aspernatur quia excepturi soluta suscipit sequi. Explicabo voluptate suscipit minus. Qui ad autem ducimus eaque dolorum rem. Aliquid impedit aliquid porro illo minus vel dicta.",
+      "type": "LOCAL_BUSINESS",
       "address": {
-        "street": "Bradtke Grove",
-        "zipcode": 32027,
+        "street": "Predovic Stravenue",
+        "zipcode": 32162,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "(560) 997-8582",
-      "rating": 3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5214822752845824",
+      "email": "Tyrese47@yahoo.com",
+      "phone": "918.313.7833",
+      "rating": 3.9,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=8266968008228864",
       "geo": {
-        "latitude": 19.6719,
-        "longitude": 71.4396
+        "latitude": 20.2207,
+        "longitude": 10.6325
       },
-      "tags": ["Indian", "Smoothies"],
-      "distance": "3m"
-    },
-    {
-      "id": "30082",
-      "name": "American",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Karley Ways",
-        "zipcode": 32027,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(924) 392-4615 x057",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=124615301005312",
-      "geo": {
-        "latitude": -40.0907,
-        "longitude": 111.2259
-      },
-      "tags": ["Fast Food", "Smoothies"],
-      "distance": "4m"
-    },
-    {
-      "id": "30083",
-      "name": "Florida White",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Johnston Path",
-        "zipcode": 32196,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "565.672.2052 x729",
-      "rating": 4.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6815996971057152",
-      "geo": {
-        "latitude": 81.8408,
-        "longitude": 125.0585
-      },
-      "tags": ["Healthy", "Coffee"],
-      "distance": "13m"
-    },
-    {
-      "id": "30084",
-      "name": "Palomino",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Rodger Rest",
-        "zipcode": 32123,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "368.565.5428 x772",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6255898443907072",
-      "geo": {
-        "latitude": -24.6038,
-        "longitude": -107.7833
-      },
-      "tags": ["Indian", "Smoothies"],
-      "distance": "12m"
-    },
-    {
-      "id": "30085",
-      "name": "Holland Lop",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Koss Lights",
-        "zipcode": 32219,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "901.698.3554 x79747",
-      "rating": 3.4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=2938860319277056",
-      "geo": {
-        "latitude": -85.9589,
-        "longitude": 64.8106
-      },
-      "tags": ["Chinese", "Soups"],
-      "distance": "5m"
-    },
-    {
-      "id": "30086",
-      "name": "Mini Satin",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Vivienne Common",
-        "zipcode": 32087,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(665) 433-5317 x775",
-      "rating": 4,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6264046831534080",
-      "geo": {
-        "latitude": 41.0374,
-        "longitude": -165.372
-      },
-      "tags": ["Greek", "Juices"],
-      "distance": "8m"
-    },
-    {
-      "id": "30087",
-      "name": "Dwarf Hotot",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Turner Skyway",
-        "zipcode": 32027,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "317.964.1632",
-      "rating": 3.5,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=1966123719327744",
-      "geo": {
-        "latitude": 10.4188,
-        "longitude": -31.7008
-      },
-      "tags": ["Indian", "Coffee"],
-      "distance": "2m"
-    },
-    {
-      "id": "30088",
-      "name": "Satin Angora",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Kessler Valleys",
-        "zipcode": 32185,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "878.340.9397 x518",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4352692851834880",
-      "geo": {
-        "latitude": 3.4739,
-        "longitude": 128.6046
-      },
-      "tags": ["Chinese", "Coffee"],
-      "distance": "11m"
-    },
-    {
-      "id": "30089",
-      "name": "Giant Angora",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Alf Path",
-        "zipcode": 32097,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "484-922-1982 x061",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5190678921347072",
-      "geo": {
-        "latitude": -12.8056,
-        "longitude": 25.6701
-      },
-      "tags": ["Indian", "Juices"],
+      "tags": [
+        "Chinese",
+        "Soups"
+      ],
       "distance": "9m"
     },
     {
-      "id": "30090",
-      "name": "Silver Fox",
-      "category": "LOCAL_BUSINESS",
+      "id": "30007",
+      "name": "Checkered Giant",
+      "description": "Exercitationem nostrum dignissimos dolore qui aspernatur. Quia fuga accusamus explicabo. Velit provident facilis est repellat reprehenderit doloremque minus. Dolorem repellendus libero necessitatibus velit.",
+      "type": "FOOD_TRUCK",
       "address": {
-        "street": "Carleton Via",
-        "zipcode": 32177,
+        "street": "O'Keefe Green",
+        "zipcode": 32082,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "(696) 564-7037",
-      "rating": 4.3,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=3468992339509248",
+      "email": "Darrick.King@hotmail.com",
+      "phone": "225.950.5773",
+      "rating": 4.5,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=1514518536519680",
       "geo": {
-        "latitude": -69.1161,
-        "longitude": 172.5318
+        "latitude": -72.1828,
+        "longitude": -142.2046
       },
-      "tags": ["Mexican", "Soups"],
-      "distance": "12m"
+      "tags": [
+        "Thai",
+        "Soups"
+      ],
+      "distance": "14m"
     },
     {
-      "id": "30091",
-      "name": "Jersey Wooly",
-      "category": "HOME_MADE_FOOD",
+      "id": "30008",
+      "name": "Rhinelander",
+      "description": "Quam quia dicta. Molestiae unde voluptas atque tempore. Culpa repellat ut saepe aut nostrum fugiat. Voluptatum repudiandae nulla autem error cupiditate ullam omnis. Ullam commodi ipsum optio architecto impedit assumenda. Vitae minima inventore impedit illo similique reiciendis doloremque eligendi sunt.",
+      "type": "LOCAL_BUSINESS",
       "address": {
-        "street": "Klocko Trace",
-        "zipcode": 32219,
+        "street": "Maximillia Plain",
+        "zipcode": 32107,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "442.808.0103 x76075",
-      "rating": 3.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8555039220039680",
+      "email": "Deangelo_Hilll61@hotmail.com",
+      "phone": "1-774-385-6508",
+      "rating": 4.3,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=7665279660195840",
       "geo": {
-        "latitude": 19.3147,
-        "longitude": 56.439
+        "latitude": 4.1481,
+        "longitude": 56.1999
       },
-      "tags": ["Fast Food", "Smoothies"],
+      "tags": [
+        "Thai",
+        "Soups"
+      ],
+      "distance": "8m"
+    },
+    {
+      "id": "30009",
+      "name": "Havana",
+      "description": "Atque sed distinctio neque placeat quasi nihil minima. Commodi facere quaerat.",
+      "type": "HOME_MADE_FOOD",
+      "address": {
+        "street": "Matilde Knolls",
+        "zipcode": 32055,
+        "city": "Jacksonville",
+        "country": "US"
+      },
+      "email": "Rae_Kunde7@gmail.com",
+      "phone": "670-269-0514",
+      "rating": 4.4,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=342076887662592",
+      "geo": {
+        "latitude": 18.7382,
+        "longitude": 124.6153
+      },
+      "tags": [
+        "Italian",
+        "Juices"
+      ],
+      "distance": "2m"
+    },
+    {
+      "id": "30010",
+      "name": "Mini Lop",
+      "description": "Corrupti consequuntur ipsa voluptates nam assumenda architecto. Aperiam mollitia eveniet ullam deserunt.",
+      "type": "HOME_MADE_FOOD",
+      "address": {
+        "street": "Littel Courts",
+        "zipcode": 32137,
+        "city": "Jacksonville",
+        "country": "US"
+      },
+      "email": "Keon.Deckow2@gmail.com",
+      "phone": "(297)",
+      "rating": 4.5,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=4401113795133440",
+      "geo": {
+        "latitude": 61.6571,
+        "longitude": 138.3175
+      },
+      "tags": [
+        "Chinese",
+        "Juices"
+      ],
+      "distance": "2m"
+    },
+    {
+      "id": "30011",
+      "name": "Lionhead",
+      "description": "Numquam nesciunt exercitationem veritatis ex recusandae nemo tempora sapiente numquam. Quasi fugiat et non ullam. Doloribus natus porro numquam omnis numquam facere. Blanditiis qui non accusantium perspiciatis ducimus.",
+      "type": "LOCAL_BUSINESS",
+      "address": {
+        "street": "Vandervort Bridge",
+        "zipcode": 32127,
+        "city": "Jacksonville",
+        "country": "US"
+      },
+      "email": "Cheyenne.Beer72@yahoo.com",
+      "phone": "1-507-216-6754",
+      "rating": 4.5,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=2376897390444544",
+      "geo": {
+        "latitude": 18.8093,
+        "longitude": 135.256
+      },
+      "tags": [
+        "Mexican",
+        "Coffee"
+      ],
       "distance": "3m"
     },
     {
-      "id": "30092",
-      "name": "Giant Chinchilla",
-      "category": "FOOD_TRUCK",
+      "id": "30012",
+      "name": "Silver Fox",
+      "description": "Accusamus tempore pariatur nihil quos nobis. Magni velit nihil sunt beatae rem enim aspernatur eum quod. Odit similique nulla dolore facilis illo commodi ab hic necessitatibus.",
+      "type": "LOCAL_BUSINESS",
       "address": {
-        "street": "Walter Spurs",
-        "zipcode": 32071,
+        "street": "Monahan Alley",
+        "zipcode": 32277,
         "city": "Jacksonville",
         "country": "US"
       },
-      "phone": "(880) 399-8386 x43242",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4442769646944256",
+      "email": "Victor.Spencer50@yahoo.com",
+      "phone": "(798)",
+      "rating": 4.2,
+      "imgSrc": "https://loremflickr.com/640/480/foodtrucks?lock=8072093356785664",
       "geo": {
-        "latitude": -40.9667,
-        "longitude": 128.6585
+        "latitude": 74.4484,
+        "longitude": -30.0412
       },
-      "tags": ["Italian", "Tea"],
-      "distance": "11m"
-    },
-    {
-      "id": "30093",
-      "name": "Florida White",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Royce Field",
-        "zipcode": 32218,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(739) 834-2323 x146",
-      "rating": 4.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=6498009091145728",
-      "geo": {
-        "latitude": -30.5508,
-        "longitude": 100.3483
-      },
-      "tags": ["Greek", "Coffee"],
-      "distance": "2m"
-    },
-    {
-      "id": "30094",
-      "name": "Mini Satin",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Onie Junction",
-        "zipcode": 32051,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-558-455-6697",
-      "rating": 3.2,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8771841539702784",
-      "geo": {
-        "latitude": -29.163,
-        "longitude": -78.8412
-      },
-      "tags": ["Healthy", "Juices"],
-      "distance": "10m"
-    },
-    {
-      "id": "30095",
-      "name": "Silver Marten",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Jaunita Spurs",
-        "zipcode": 32233,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "559.628.8866 x89726",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8766656283148288",
-      "geo": {
-        "latitude": 51.0742,
-        "longitude": 94.4534
-      },
-      "tags": ["Healthy", "Coffee"],
-      "distance": "2m"
-    },
-    {
-      "id": "30096",
-      "name": "Standard Chinchilla",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Hintz Fords",
-        "zipcode": 32049,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "(211) 244-0695 x067",
-      "rating": 4.8,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=5713054912217088",
-      "geo": {
-        "latitude": 71.6846,
-        "longitude": -99.0542
-      },
-      "tags": ["Chinese", "Juices"],
-      "distance": "4m"
-    },
-    {
-      "id": "30097",
-      "name": "Californian",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Dibbert Trafficway",
-        "zipcode": 32178,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-315-461-6936",
-      "rating": 4.1,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=7237263886909440",
-      "geo": {
-        "latitude": 72.645,
-        "longitude": -148.2947
-      },
-      "tags": ["Thai", "Smoothies"],
-      "distance": "5m"
-    },
-    {
-      "id": "30098",
-      "name": "Cinnamon",
-      "category": "HOME_MADE_FOOD",
-      "address": {
-        "street": "Hyatt Street",
-        "zipcode": 32083,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-263-310-0538 x7075",
-      "rating": 3.7,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=741995318345728",
-      "geo": {
-        "latitude": 80.6236,
-        "longitude": -62.588
-      },
-      "tags": ["Fast Food", "Soups"],
+      "tags": [
+        "Thai",
+        "Soups"
+      ],
       "distance": "12m"
-    },
-    {
-      "id": "30099",
-      "name": "Standard Chinchilla",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Tyson Passage",
-        "zipcode": 32186,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "498.495.9067",
-      "rating": 4.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8251325166911488",
-      "geo": {
-        "latitude": -56.5985,
-        "longitude": 49.6716
-      },
-      "tags": ["Italian", "Tea"],
-      "distance": "7m"
     }
   ]
 }
