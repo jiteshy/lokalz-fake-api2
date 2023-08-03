@@ -1,96 +1,76 @@
-[
+{
+  "shops": [
     {
-        "id": "316745",
-        "name": "Fusion Food Truck",
-        "address": "219 N Hogan St, Jacksonville, FL, 32202",
-        "imgSrc": "https://foodtruckfinderusa.com/uploads/3794D8AF-777D-45DC-9579-07C000A4180D.jpeg",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "2m",
-        "rating": "4.1",
-        "tags": [
-            "Indian",
-            "Thai",
-            "Mediterranean"
-        ]
+      "id": "316745",
+      "name": "Fusion Food Truck",
+      "address": "219 N Hogan St, Jacksonville, FL, 32202",
+      "imgSrc": "https://foodtruckfinderusa.com/uploads/3794D8AF-777D-45DC-9579-07C000A4180D.jpeg",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "2m",
+      "rating": "4.1",
+      "tags": ["Indian", "Thai", "Mediterranean"]
     },
     {
-        "id": "316744",
-        "name": "Alma Fusion",
-        "address": "219 N Hogan St, Jacksonville, FL, 32202",
-        "imgSrc": "https://eventective-media.azureedge.net/2779547_lg.jpg",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "2m",
-        "rating": "4.3",
-        "tags": [
-            "Mexican",
-            "Tacos",
-            "Burritos"
-        ]
+      "id": "316744",
+      "name": "Alma Fusion",
+      "address": "219 N Hogan St, Jacksonville, FL, 32202",
+      "imgSrc": "https://eventective-media.azureedge.net/2779547_lg.jpg",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "2m",
+      "rating": "4.3",
+      "tags": ["Mexican", "Tacos", "Burritos"]
     },
     {
-        "id": "316743",
-        "name": "Fit Kits",
-        "address": "11 Bay St, Jacksonville, FL, 32202",
-        "imgSrc": "https://foodtruckfinderusa.com/uploads/Fitkits%20Food%20Truck%20%20Food%20Truck%20Jacksonville.jpeg",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "4m",
-        "rating": "4.1",
-        "tags": [
-            "Gourmet",
-            "Healthy"
-        ]
+      "id": "316743",
+      "name": "Fit Kits",
+      "address": "11 Bay St, Jacksonville, FL, 32202",
+      "imgSrc": "https://foodtruckfinderusa.com/uploads/Fitkits%20Food%20Truck%20%20Food%20Truck%20Jacksonville.jpeg",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "4m",
+      "rating": "4.1",
+      "tags": ["Gourmet", "Healthy"]
     },
     {
-        "id": "316742",
-        "name": "Tikiz Ice Cream",
-        "address": "Water St, Jacksonville, FL, 32202",
-        "imgSrc": "https://d3hbe0kmbam4a5.cloudfront.net/photos/40d6fcf4-e891-4fef-bbf8-8605912df3df.jpg",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "3m",
-        "rating": "4.1",
-        "tags": [
-            "Shaved Ice",
-            "Ice Cream"
-        ]
+      "id": "316742",
+      "name": "Tikiz Ice Cream",
+      "address": "Water St, Jacksonville, FL, 32202",
+      "imgSrc": "https://d3hbe0kmbam4a5.cloudfront.net/photos/40d6fcf4-e891-4fef-bbf8-8605912df3df.jpg",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "3m",
+      "rating": "4.1",
+      "tags": ["Shaved Ice", "Ice Cream"]
     },
     {
-        "id": "316741",
-        "name": "Tea of Jax",
-        "address": "219 N Hogan St, Jacksonville, FL, 32202",
-        "imgSrc": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/310318867_108979668650784_4792402668118429525_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=r3LeVlVQPucAX_xroXK&_nc_ht=scontent-mia3-1.xx&oh=00_AfClEU6OF7e-G2Gp4QMFGGOIvpmp2kZmk60h6fYw84RJSw&oe=64CC51E8",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "5m",
-        "rating": "4.1",
-        "tags": [
-            "Indian",
-            "Snacks",
-            "Tea"
-        ]
+      "id": "316741",
+      "name": "Tea of Jax",
+      "address": "219 N Hogan St, Jacksonville, FL, 32202",
+      "imgSrc": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/310318867_108979668650784_4792402668118429525_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=r3LeVlVQPucAX_xroXK&_nc_ht=scontent-mia3-1.xx&oh=00_AfClEU6OF7e-G2Gp4QMFGGOIvpmp2kZmk60h6fYw84RJSw&oe=64CC51E8",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "5m",
+      "rating": "4.1",
+      "tags": ["Indian", "Snacks", "Tea"]
     },
     {
-        "id": "316740",
-        "name": "Kavita's Kitchen",
-        "address": "219 N Hogan St, Jacksonville, FL, 32202",
-        "imgSrc": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/300999677_449468143863021_2451194277716570186_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9WzU3GwKLfsAX-k42Oy&_nc_ht=scontent-mia3-2.xx&oh=00_AfDtZLEfeEQFOg715EnNSAblmKEHWO_-ti0mBKqTSr9HiQ&oe=64CE060F",
-        "latitude": "",
-        "longitude": "",
-        "phone": "904-874-5478",
-        "distance": "3m",
-        "rating": "4.1",
-        "tags": [
-            "South Indian",
-            "Homemade",
-            "Tiffins"
-        ]
+      "id": "316740",
+      "name": "Kavita's Kitchen",
+      "address": "219 N Hogan St, Jacksonville, FL, 32202",
+      "imgSrc": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/300999677_449468143863021_2451194277716570186_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9WzU3GwKLfsAX-k42Oy&_nc_ht=scontent-mia3-2.xx&oh=00_AfDtZLEfeEQFOg715EnNSAblmKEHWO_-ti0mBKqTSr9HiQ&oe=64CE060F",
+      "latitude": "",
+      "longitude": "",
+      "phone": "904-874-5478",
+      "distance": "3m",
+      "rating": "4.1",
+      "tags": ["South Indian", "Homemade", "Tiffins"]
     }
-]
+  ]
+}
