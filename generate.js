@@ -22,7 +22,7 @@ module.exports = function () {
   }
 
   return {
-    shops: _.times(13, function (n) {
+    shops: _.times(15, function (n) {
       return {
         id: (30000 + n).toString(),
         name: faker.animal.rabbit(),
@@ -37,7 +37,7 @@ module.exports = function () {
         email: faker.internet.email(),
         phone: faker.phone.number().split(" ")[0],
         rating: genRandomNumber(3, 5, 1),
-        imgSrc: faker.image.urlLoremFlickr({ category: "foodtrucks" }),
+        imgSrc: faker.image.urlLoremFlickr({ category: "tastyfood" }),
         geo: {
           latitude: faker.location.latitude(),
           longitude: faker.location.longitude(),
