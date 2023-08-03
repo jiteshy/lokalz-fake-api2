@@ -341,26 +341,6 @@
       "distance": "4m"
     },
     {
-      "id": "30017",
-      "name": "New Zealand",
-      "category": "LOCAL_BUSINESS",
-      "address": {
-        "street": "Grimes Parkway",
-        "zipcode": 32040,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "279.756.1198 x47923",
-      "rating": 3.9,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=8947902512627712",
-      "geo": {
-        "latitude": 37.5826,
-        "longitude": -134.2173
-      },
-      "tags": ["Thai", "Tea"],
-      "distance": "12m"
-    },
-    {
       "id": "30018",
       "name": "Rex",
       "category": "HOME_MADE_FOOD",
@@ -379,26 +359,6 @@
       },
       "tags": ["Chinese", "Tea"],
       "distance": "10m"
-    },
-    {
-      "id": "30019",
-      "name": "Dutch",
-      "category": "FOOD_TRUCK",
-      "address": {
-        "street": "Finn Keys",
-        "zipcode": 32015,
-        "city": "Jacksonville",
-        "country": "US"
-      },
-      "phone": "1-340-830-2141 x4308",
-      "rating": 3.6,
-      "imgSrc": "https://loremflickr.com/640/480/food?lock=4184543019925504",
-      "geo": {
-        "latitude": 41.7067,
-        "longitude": 115.0941
-      },
-      "tags": ["Mexican", "Smoothies"],
-      "distance": "12m"
     },
     {
       "id": "30020",
