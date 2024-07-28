@@ -57,35 +57,35 @@
             "itemCode": "abc",
             "itemName": "Panang Curry",
             "itemDescription": "Coconut Milk | Thai Spices | Veggies | GF/ V",
-            "price": "5"
+            "price": null
           },
           {
             "id": 3,
             "itemCode": "abc",
             "itemName": "Banana Curry",
             "itemDescription": "Coconut Milk | Indian & Thai Spices | GF/ V",
-            "price": "5"
+            "price": null
           },
           {
             "id": 4,
             "itemCode": "abc",
             "itemName": "Korma",
             "itemDescription": "Creamy Saffron Curry | Almonds | Raisins | GF",
-            "price": "3"
+            "price": null
           },
           {
             "id": 4,
             "itemCode": "abc",
             "itemName": "Vindaloo",
             "itemDescription": "Tangy Tomato Curry | Indian Spices | Ginger | Potatoes GF/ V",
-            "price": "3"
+            "price": null
           },
           {
             "id": 4,
             "itemCode": "abc",
             "itemName": "Butter Chicken",
             "itemDescription": "Creamy and Buttery Curry | Indian Spices | Garlic and Ginger | GF",
-            "price": "3"
+            "price": null
           }
         ]
       },
